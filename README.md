@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vitthal Humbe</h1>
-<h3 align="center">A passionate programmer from India</h3>
-
+![Header](./.png)
 - 🔭 I’m currently working on **Data structure and algorithms**
 
 - 🌱 I’m currently learning **Java programming language**
