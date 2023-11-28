@@ -11,10 +11,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vitthalhumbe&show_icons=true&locale=en" alt="vitthalhumbe" /></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vitthalhumbe&" alt="vitthalhumbe" /></p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vitthal-humbe-9a8b12264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vitthal-humbe-9a8b12264" height="30" width="40" /></a>
