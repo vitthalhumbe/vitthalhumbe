@@ -1,4 +1,4 @@
-![Header](./.png)
+![Header](./github-header-image.png)
 - 🔭 I’m currently working on **Data structure and algorithms**
 
 - 🌱 I’m currently learning **Java programming language**
