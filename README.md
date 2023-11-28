@@ -1,4 +1,4 @@
-![Header]((https://github.com/vitthalhumbe/vitthalhumbe/blob/main/giting.png))
+![Header](https://github.com/vitthalhumbe/vitthalhumbe/blob/main/giting.png)
 - 🔭 I’m currently working on **Data structure and algorithms**
 
 - 🌱 I’m currently learning **Java programming language**
