@@ -1,5 +1,5 @@
 # Hi 👋, It's Vitthal Humbe 
-AIML student, although learned lot of CSE
+AIML student
 
 Current Mission : ***Mission34*** (Building 34 _Big_, _Scalable_, _Open-sourced_, and _From Scratch_ Projects) 
 
