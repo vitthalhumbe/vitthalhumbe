@@ -8,5 +8,7 @@ Current Mission : ***Mission34*** (Building 34 _Big_, _Scalable_, _Open-sourced_
 |M3401|Crew| Flutter, Firebase|App Development|
 |M3402|MyAlgo|C++, Python|Machine Learning |
 |M3403|FishPond|Python, PyGame|Artificial Intelligence|
-||To Be Continued|||
+|M3404|TLDR|Python, FastAPI|GenAI|
+|M3405|ClaimCraft|Python, React|Parsing, GenAI|
+
 
