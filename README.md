@@ -1,1 +1,1 @@
-Hi 👋, It's Vitthal Humbe 
+It's hard? Hell yeah!
